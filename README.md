@@ -1,4 +1,4 @@
-# CS-121-Web-Crawler
+# CS121 Web Crawler
 A web crawler we created in CS 121: Information Retrieval class at UCI.  Collaborated with Alicia Xu.
 
 
